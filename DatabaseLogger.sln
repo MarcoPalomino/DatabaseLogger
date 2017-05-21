@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLogger", "DatabaseLogger\DatabaseLogger.csproj", "{FBCF4325-76DC-4CE4-8803-CE480C28689E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseLogger.Tests", "DatabaseLogger.Tests\DatabaseLogger.Tests.csproj", "{46B81150-CF02-4DB9-8AA4-55A0A56A53CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCF4325-76DC-4CE4-8803-CE480C28689E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCF4325-76DC-4CE4-8803-CE480C28689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCF4325-76DC-4CE4-8803-CE480C28689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCF4325-76DC-4CE4-8803-CE480C28689E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B81150-CF02-4DB9-8AA4-55A0A56A53CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B81150-CF02-4DB9-8AA4-55A0A56A53CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B81150-CF02-4DB9-8AA4-55A0A56A53CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B81150-CF02-4DB9-8AA4-55A0A56A53CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

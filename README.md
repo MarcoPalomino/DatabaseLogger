@@ -7,5 +7,4 @@ The connectionstring is defined in an **app.config** file:
 
 Also, the unit tests consider the path defined in the app.config for creating the SQL connection. The log is saved using stored procedures.
 
-Any concern or improvement, is well received. 
-Please contact me.   :+1:
+Any concern or improvement, is well received. :+1:
